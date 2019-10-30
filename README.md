@@ -1,2 +1,2 @@
 # Miscellaneous
-Random Mini Projects
+Various Mini Projects
